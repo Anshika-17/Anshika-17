@@ -54,14 +54,6 @@ A platform for sharing poetry, stories, and creative writing.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Anshika-17\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-17\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 🌱 Currently Exploring
 
 * Generative AI
